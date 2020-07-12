@@ -5,6 +5,8 @@
 # 项目预览
 ## 1.项目预览
 
+[项目介绍](https://blog.csdn.net/DQdanqing/article/details/105588840)
+
 [项目预览地址](http://47.94.229.156/class-manage/)
 
 [项目源码](https://github.com/danqing-hub/class-manage/)
