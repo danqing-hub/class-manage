@@ -1,3 +1,11 @@
+
+**本系统只开源后台代码，前台代码暂时不开源**
+## 获取完整项目
+
+* **+q 2832466495**
+
+
+
 # class-manage
 班级管理系统
 
@@ -7,7 +15,7 @@
 
 [项目介绍](https://blog.csdn.net/DQdanqing/article/details/105588840)
 
-[项目预览地址](http://47.94.229.156/class-manage/)
+[项目预览地址](http://danqing.fun/class-manage/)
 
 [项目源码](https://github.com/danqing-hub/class-manage/)
 
